@@ -29,7 +29,7 @@ Steps to Setup your repositoy!
 5. Then copy the code in the config folder > db.php
 
 ---
-![Reden](img\Reden.jpg)
+![Reden](https://github.com/rjomillo/logApp-Jomillo/blob/main/Reden.jpg)
 
 ### Author: Reden Jomillo 🙂
 

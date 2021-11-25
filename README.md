@@ -2,7 +2,7 @@
 
 ### This is sample Guest Login App ❤️
 ***
-
+<img src = "https://github.com/rjomillo/logApp-Jomillo/blob/main/login.jpg" width="400" height="400">
 ![login](https://github.com/rjomillo/logApp-Jomillo/blob/main/login.jpg)
 
 ***

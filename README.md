@@ -3,8 +3,7 @@
 ### This is sample Guest Login App ❤️
 ***
 
-<img src="img\login.jpg" width="300" height="100">
-![login](img\login.jpg)
+![login](https://github.com/rjomillo/logApp-Jomillo/blob/main/login.jpg)
 
 ***
 

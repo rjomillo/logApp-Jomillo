@@ -1,6 +1,6 @@
 # Reden Jomillo
 
-### This is sample Guest Login App 
+### This is sample Guest Login App ❤️
 ***
 
 
@@ -30,7 +30,7 @@ Steps to Setup your repositoy!
 5. Then copy the code in the config folder > db.php
 
 ---
-![IMG](img\Reden.jpg)
+![Reden](img\Reden.jpg)
 
 ### Author: Reden Jomillo 🙂
 

@@ -4,7 +4,7 @@
 ***
 
 
-![login](img\login.jpg)
+![login](img\login-small.jpg)
 
 ***
 

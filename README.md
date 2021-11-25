@@ -3,7 +3,6 @@
 ### This is sample Guest Login App ❤️
 ***
 <img src = "https://github.com/rjomillo/logApp-Jomillo/blob/main/login.jpg" width="400" height="400">
-![login](https://github.com/rjomillo/logApp-Jomillo/blob/main/login.jpg)
 
 ***
 
@@ -29,7 +28,8 @@ Steps to Setup your repositoy!
 5. Then copy the code in the config folder > db.php
 
 ---
-![Reden](https://github.com/rjomillo/logApp-Jomillo/blob/main/Reden.jpg)
+<img src = "https://github.com/rjomillo/logApp-Jomillo/blob/main/Reden.jpg" width="500" height="500">
+
 
 ### Author: Reden Jomillo 🙂
 
